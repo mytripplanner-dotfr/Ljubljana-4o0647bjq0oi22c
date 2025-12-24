@@ -1,0 +1,72 @@
+{
+  "pays": "Slovénie",
+  "drapeau": "🇸🇮",
+  "symbole": "🐉",
+  "titre": "Escapade Relaxante à Ljubljana",
+  "budget_total": "825 €",
+  "duree": "2 jours",
+  "temps_vol": "1h45m depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur au Cœur de Ljubljana",
+      "legende": "Débutez votre séjour en douceur par une immersion dans l'atmosphère charmante de Ljubljana. Flânez le long de la rivière Ljubljanica, admirez l'architecture baroque et imprégnez-vous de la sérénité de la capitale slovène.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🛬 Arrivée à Ljubljana</strong>: Installation à l'hôtel et rafraîchissement après le vol direct depuis Paris.",
+        "<strong>🚶‍♂️ Balade le long de la Ljubljanica</strong>: Profitez d'une promenade relaxante le long de la rivière, découvrant les ponts emblématiques et les terrasses animées.",
+        "<strong>☕ Pause café et gâteau local</strong>: Savourez une douceur slovène dans un café pittoresque du centre-ville, comme le célèbre \"Prekmurska gibanica\"."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre-ville de Ljubljana est majoritairement piéton, idéal pour des balades sans stress et une découverte à pied."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Détente Thermale et Vues Panoramiques",
+      "legende": "Poursuivez votre exploration avec une touche de bien-être et des panoramas époustouflants. Entre sources chaudes et château médiéval, cette journée promet détente et découvertes culturelles.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🧖‍♀️ Matinée aux Thermes de Ljubljana</strong>: Profitez des piscines thermales et des espaces de relaxation pour un moment de pur bien-être et de détente absolue.",
+        "<strong>🚠 Visite du Château de Ljubljana</strong>: Montez en funiculaire pour explorer le château médiéval et admirer la vue imprenable sur la ville et les Alpes environnantes.",
+        "<strong>🍽️ Dîner traditionnel slovène</strong>: Terminez votre séjour par un repas savoureux dans un restaurant local, goûtant aux spécialités comme les \"štruklji\" ou la \"kranjska klobasa\"."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Le funiculaire pour le château offre une vue magnifique dès la montée, n'oubliez pas votre appareil photo."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 296 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20 €/pers (bus, funiculaire)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 210 €/pers (35€/repas, 2 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 240 €/pers (120€/nuit, hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 55 €/pers (thermes, château)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "De mai à septembre, les températures sont douces (15-25°C). Prévoir des couches et un imperméable léger.", "symbole": "🍁" },
+    { "titre": "L'Euro (€) est la monnaie officielle. Les cartes de crédit sont largement acceptées dans la plupart des établissements.", "symbole": "💳" },
+    { "titre": "Le slovène est la langue officielle, mais l'anglais est couramment parlé dans les zones touristiques et les hôtels.", "symbole": "🗣️" },
+    { "titre": "Le centre-ville est majoritairement piéton. Les bus locaux sont efficaces pour les distances plus longues et les environs.", "symbole": "🚌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-LJU/2026-05-15/2026-05-17", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Slovénie", "url": "https://www.slovenia.info/fr", "symbole": "📘" },
+    { "legende": "Transports publics Ljubljana", "titre": "LPP (Transports Publics Ljubljana)", "url": "https://www.lpp.si/en", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Ljubljana", "url": "https://www.accuweather.com/fr/si/ljubljana/298424/weather-forecast/298424", "symbole": "🌤️" }
+  ]
+}
